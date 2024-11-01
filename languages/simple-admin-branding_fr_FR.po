@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: simple-admin-branding\n"
+"Language: fr\n"
+
+#. Plugin Name of the plugin
+#: includes/class-simple-admin-branding.php:64
+msgid "Simple Admin Branding"
+msgstr "Image de marque d'administrateur simple"
+
+#. Description of the plugin
+#: 
+msgid "Lightweight plugin to brand the WordPress login page using the built-in site icon assets."
+msgstr "Plugin léger pour marquer la page de connexion WordPress à l'aide des actifs d'icône de site intégrés."
+
+#. translators: 1: current year, 2: Site name.
+#: includes/class-simple-admin-branding.php:101
+msgid "&copy; %1$s %2$s. All Rights Reserved."
+msgstr "&copy; %1$s %2$s. Tous les droits sont réservés."
+
+#: includes/class-simple-admin-branding.php:113
+msgid "Login Background Color"
+msgstr "Couleur de fond de connexion"
+
+#: includes/class-simple-admin-branding.php:125
+msgid "Login Text Color"
+msgstr "Couleur du texte de connexion"
+
+#: includes/class-simple-admin-branding.php:133
+msgid "Login Logo"
+msgstr "Logo de connexion"
+
+#: includes/class-simple-admin-branding.php:134
+msgid "Overrides the default WordPress site logo, specifically for the login page."
+msgstr "Remplace le logo du site WordPress par défaut, en particulier pour la page de connexion."
+
+#: includes/class-simple-admin-branding.php:144
+msgid "Login Message"
+msgstr "Message de connexion"
+
+#: includes/class-simple-admin-branding.php:145
+msgid "In between the logo and login box. HTML tags supported."
+msgstr "Entre le logo et la boîte de connexion. Balises HTML prises en charge."
+
+#: includes/class-simple-admin-branding.php:152
+msgid "Footer Text"
+msgstr "Texte de pied de page"
+
+#. translators: 1: current year.
+#: includes/class-simple-admin-branding.php:154
+msgid "%1$s for dynamic year replacement. HTML tags supported."
+msgstr "%1$s pour le remplacement dynamique de l'année. Balises HTML prises en charge."
+
+#. Author of the plugin
+#: 
+msgid "PorterAI"
+msgstr "PorterAI"
+
